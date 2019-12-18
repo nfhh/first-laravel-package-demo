@@ -1,0 +1,18 @@
+{
+    "name": "laracrypt/hasher",
+    "description": "Md5 support in laravel",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Stoa",
+            "email": "542950749@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Laracrypt\\Hasher\\": "src/"
+        }
+    }
+}
